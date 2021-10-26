@@ -1,0 +1,235 @@
+[15-May-2020 19:27:52 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 32
+[15-May-2020 19:40:07 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 33
+[15-May-2020 19:40:07 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 33
+[15-May-2020 19:44:08 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 22
+[15-May-2020 19:45:41 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 22
+[15-May-2020 19:46:30 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 22
+[15-May-2020 19:06:52 America/Boise] PHP Parse error:  syntax error, unexpected '', 2, \'Jean Louis\', \'Jean D' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 23
+[15-May-2020 19:06:59 America/Boise] PHP Parse error:  syntax error, unexpected '', 2, \'Jean Louis\', \'Jean D' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 23
+[15-May-2020 19:09:06 America/Boise] PHP Parse error:  syntax error, unexpected '', 2, \'Jean Louis\', \'Jean D' (T_CONSTANT_ENCAPSED_STRING), expecting ',' or ')' in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 23
+[15-May-2020 20:22:19 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 24
+[15-May-2020 20:26:04 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 24
+[15-May-2020 20:30:47 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 24
+[15-May-2020 20:10:43 America/Boise] PHP Parse error:  syntax error, unexpected '$_SESSION' (T_VARIABLE), expecting ',' or ')' in /home3/enartsht/public_html/musomobil/ad/index.php on line 19
+[15-May-2020 20:11:19 America/Boise] PHP Parse error:  syntax error, unexpected 'id_muso' (T_STRING), expecting ',' or ')' in /home3/enartsht/public_html/musomobil/ad/index.php on line 19
+[15-May-2020 20:11:23 America/Boise] PHP Parse error:  syntax error, unexpected 'id_muso' (T_STRING), expecting ',' or ')' in /home3/enartsht/public_html/musomobil/ad/index.php on line 19
+[15-May-2020 20:12:15 America/Boise] PHP Parse error:  syntax error, unexpected 'id_muso' (T_STRING), expecting ',' or ')' in /home3/enartsht/public_html/musomobil/ad/index.php on line 19
+[15-May-2020 20:13:06 America/Boise] PHP Parse error:  syntax error, unexpected 'id_muso' (T_STRING), expecting ',' or ')' in /home3/enartsht/public_html/musomobil/ad/index.php on line 19
+[15-May-2020 20:13:09 America/Boise] PHP Parse error:  syntax error, unexpected 'id_muso' (T_STRING), expecting ',' or ')' in /home3/enartsht/public_html/musomobil/ad/index.php on line 19
+[15-May-2020 21:15:03 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home3/enartsht/public_html/musomobil/ad/index.php:174
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/index.php on line 174
+[15-May-2020 21:17:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home3/enartsht/public_html/musomobil/ad/index.php:174
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/index.php on line 174
+[15-May-2020 21:19:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home3/enartsht/public_html/musomobil/ad/index.php:174
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/index.php on line 174
+[15-May-2020 20:20:19 America/Boise] PHP Parse error:  syntax error, unexpected 'muso_id' (T_STRING), expecting ',' or ')' in /home3/enartsht/public_html/musomobil/ad/index.php on line 19
+[15-May-2020 21:20:49 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home3/enartsht/public_html/musomobil/ad/index.php:174
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/index.php on line 174
+[15-May-2020 21:21:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home3/enartsht/public_html/musomobil/ad/index.php:174
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/index.php on line 174
+[15-May-2020 20:57:09 America/Boise] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ')' in /home3/enartsht/public_html/musomobil/ad/index.php on line 19
+[15-May-2020 20:57:21 America/Boise] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ')' in /home3/enartsht/public_html/musomobil/ad/index.php on line 19
+[15-May-2020 21:01:33 America/Boise] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ')' in /home3/enartsht/public_html/musomobil/ad/index.php on line 19
+[15-May-2020 21:01:43 America/Boise] PHP Parse error:  syntax error, unexpected '"', expecting ',' or ')' in /home3/enartsht/public_html/musomobil/ad/index.php on line 19
+[15-May-2020 23:15:42 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 24
+[15-May-2020 23:25:58 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 24
+[15-May-2020 23:31:22 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 24
+[15-May-2020 23:34:29 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 24
+[15-May-2020 23:37:28 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 24
+[15-May-2020 23:41:31 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 24
+[15-May-2020 23:45:16 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 24
+[15-May-2020 23:45:37 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 24
+[21-May-2020 11:52:19 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/enartsht/public_html/musomobil/ad/modifier_mutuelle.php on line 171
+[21-May-2020 12:25:34 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/enartsht/public_html/musomobil/ad/modifier_mutuelle.php on line 171
+[21-May-2020 12:36:54 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/enartsht/public_html/musomobil/ad/modifier_mutuelle.php on line 170
+[21-May-2020 12:43:44 America/Chicago] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home3/enartsht/public_html/musomobil/ad/modifier_mutuelle.php on line 170
+[21-May-2020 12:44:50 America/Boise] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home3/enartsht/public_html/musomobil/ad/liste_membres.php:84
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/liste_membres.php on line 84
+[21-May-2020 16:06:35 America/Boise] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/enartsht/public_html/musomobil/ad/view_membre.php on line 99
+[21-May-2020 16:07:47 America/Boise] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home3/enartsht/public_html/musomobil/ad/view_membre.php on line 99
+[22-May-2020 11:39:54 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php:184
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php on line 184
+[22-May-2020 11:41:38 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php:184
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php on line 184
+[22-May-2020 12:13:40 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php:159
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php on line 159
+[22-May-2020 12:15:57 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php:159
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php on line 159
+[22-May-2020 12:18:55 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php:228
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php on line 228
+[22-May-2020 12:21:09 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php:226
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php on line 226
+[22-May-2020 12:30:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php:228
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php on line 228
+[22-May-2020 11:47:54 America/Boise] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php on line 86
+[22-May-2020 12:49:25 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php:224
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php on line 224
+[22-May-2020 12:51:56 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on null in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php:161
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php on line 161
+[22-May-2020 12:55:05 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php on line 12
+[22-May-2020 12:56:32 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php:12
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php on line 12
+[22-May-2020 12:01:04 America/Boise] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php on line 29
+[22-May-2020 17:05:04 America/Boise] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home3/enartsht/public_html/musomobil/ad/logout.php on line 5
+[22-May-2020 17:07:29 America/Boise] PHP Parse error:  syntax error, unexpected 'exit' (T_EXIT) in /home3/enartsht/public_html/musomobil/ad/logout.php on line 5
+[22-May-2020 21:40:36 America/Boise] PHP Warning:  require_once(config.php): failed to open stream: No such file or directory in /home3/enartsht/public_html/musomobil/ad/image_upload.php on line 3
+[22-May-2020 21:40:36 America/Boise] PHP Fatal error:  require_once(): Failed opening required 'config.php' (include_path='.:/opt/cpanel/ea-php70/root/usr/share/pear') in /home3/enartsht/public_html/musomobil/ad/image_upload.php on line 3
+[22-May-2020 23:10:05 America/Boise] PHP Parse error:  syntax error, unexpected '$reponse' (T_VARIABLE) in /home3/enartsht/public_html/musomobil/ad/index.php on line 26
+[22-May-2020 23:13:09 America/Boise] PHP Parse error:  syntax error, unexpected '$reponse' (T_VARIABLE) in /home3/enartsht/public_html/musomobil/ad/index.php on line 26
+[22-May-2020 23:13:17 America/Boise] PHP Parse error:  syntax error, unexpected '$reponse' (T_VARIABLE) in /home3/enartsht/public_html/musomobil/ad/index.php on line 26
+[22-May-2020 23:13:26 America/Boise] PHP Parse error:  syntax error, unexpected '$reponse' (T_VARIABLE) in /home3/enartsht/public_html/musomobil/ad/index.php on line 26
+[05-Jun-2020 14:33:13 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home3/enartsht/public_html/musomobil/ad/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/index.php on line 25
+[05-Jun-2020 14:33:51 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home3/enartsht/public_html/musomobil/ad/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/index.php on line 25
+[10-Sep-2020 09:00:37 America/Boise] PHP Parse error:  syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php on line 124
+[10-Sep-2020 10:05:16 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on string in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php:126
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php on line 126
+[10-Sep-2020 10:05:20 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on string in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php:126
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php on line 126
+[10-Sep-2020 10:06:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on string in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php:126
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php on line 126
+[10-Sep-2020 10:07:53 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on string in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php:126
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php on line 126
+[10-Sep-2020 10:08:06 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on string in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php:126
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php on line 126
+[10-Sep-2020 10:08:12 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function bindParam() on string in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php:126
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php on line 126
+[17-Sep-2020 13:03:42 America/Boise] PHP Parse error:  syntax error, unexpected end of file in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 346
+[17-Sep-2020 13:03:50 America/Boise] PHP Parse error:  syntax error, unexpected end of file in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 346
+[17-Sep-2020 13:03:51 America/Boise] PHP Parse error:  syntax error, unexpected end of file in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 346
+[17-Sep-2020 13:04:49 America/Boise] PHP Parse error:  syntax error, unexpected end of file in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 346
+[17-Sep-2020 13:05:04 America/Boise] PHP Parse error:  syntax error, unexpected end of file in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 346
+[17-Sep-2020 13:11:29 America/Boise] PHP Parse error:  syntax error, unexpected end of file in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 347
+[17-Sep-2020 13:11:35 America/Boise] PHP Parse error:  syntax error, unexpected end of file in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 347
+[17-Sep-2020 13:15:14 America/Boise] PHP Parse error:  syntax error, unexpected end of file in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 347
+[17-Sep-2020 13:30:39 America/Boise] PHP Parse error:  syntax error, unexpected '{' in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 259
+[17-Sep-2020 13:31:45 America/Boise] PHP Parse error:  syntax error, unexpected '{' in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 259
+[25-Sep-2020 10:27:08 America/Boise] PHP Fatal error:  Uncaught Error: Function name must be a string in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php:88
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 88
+[25-Sep-2020 10:28:01 America/Boise] PHP Fatal error:  Uncaught Error: Function name must be a string in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php:88
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 88
+[25-Sep-2020 10:30:04 America/Boise] PHP Fatal error:  Uncaught Error: Function name must be a string in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php:88
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 88
+[25-Sep-2020 10:31:13 America/Boise] PHP Fatal error:  Uncaught Error: Function name must be a string in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php:88
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/ajouter_membre.php on line 88
+[27-Sep-2020 12:03:59 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home3/enartsht/public_html/musomobil/ad/view_muso.php:165
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/view_muso.php on line 165
+[27-Sep-2020 12:07:45 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home3/enartsht/public_html/musomobil/ad/view_muso.php:167
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/view_muso.php on line 167
+[27-Sep-2020 12:07:50 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home3/enartsht/public_html/musomobil/ad/view_muso.php:167
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/view_muso.php on line 167
+[27-Sep-2020 12:11:12 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home3/enartsht/public_html/musomobil/ad/view_muso.php:167
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/view_muso.php on line 167
+[27-Sep-2020 12:12:25 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home3/enartsht/public_html/musomobil/ad/view_muso.php:167
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/view_muso.php on line 167
+[27-Sep-2020 12:13:21 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home3/enartsht/public_html/musomobil/ad/view_muso.php:167
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/view_muso.php on line 167
+[27-Sep-2020 12:13:30 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home3/enartsht/public_html/musomobil/ad/view_muso.php:167
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/view_muso.php on line 167
+[27-Sep-2020 12:14:00 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home3/enartsht/public_html/musomobil/ad/view_muso.php:167
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/view_muso.php on line 167
+[27-Sep-2020 12:16:40 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home3/enartsht/public_html/musomobil/ad/view_muso.php:167
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/view_muso.php on line 167
+[27-Sep-2020 12:17:04 America/Chicago] PHP Fatal error:  Uncaught Error: Cannot use object of type PDOStatement as array in /home3/enartsht/public_html/musomobil/ad/view_muso.php:167
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/view_muso.php on line 167
+[28-Sep-2020 09:54:19 America/Boise] PHP Parse error:  syntax error, unexpected '$reseaux' (T_VARIABLE) in /home3/enartsht/public_html/musomobil/ad/modifier_mutuelle.php on line 125
+[28-Sep-2020 09:54:30 America/Boise] PHP Parse error:  syntax error, unexpected '$reseaux' (T_VARIABLE) in /home3/enartsht/public_html/musomobil/ad/modifier_mutuelle.php on line 125
+[28-Sep-2020 13:12:06 America/Chicago] PHP Catchable fatal error:  Object of class PDOStatement could not be converted to string in /home3/enartsht/public_html/musomobil/ad/view_muso.php on line 211
+[28-Sep-2020 13:17:26 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_num_rows() in /home3/enartsht/public_html/musomobil/ad/view_muso.php:28
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/view_muso.php on line 28
+[28-Sep-2020 13:27:04 America/Chicago] PHP Fatal error:  Uncaught Error: Call to a member function fetch() on boolean in /home3/enartsht/public_html/musomobil/ad/view_muso.php:27
+Stack trace:
+#0 {main}
+  thrown in /home3/enartsht/public_html/musomobil/ad/view_muso.php on line 27
+[09-Oct-2020 18:57:16 America/Boise] PHP Parse error:  syntax error, unexpected end of file in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php on line 371
+[09-Oct-2020 19:05:06 America/Boise] PHP Parse error:  syntax error, unexpected end of file in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php on line 371
+[09-Oct-2020 19:05:06 America/Boise] PHP Parse error:  syntax error, unexpected end of file in /home3/enartsht/public_html/musomobil/ad/modifier_membre.php on line 371
+[09-Oct-2020 21:15:02 America/Boise] PHP Parse error:  syntax error, unexpected '{' in /home3/enartsht/public_html/musomobil/ad/modifier_mutuelle.php on line 140
+[09-Oct-2020 21:24:23 America/Boise] PHP Parse error:  syntax error, unexpected '{' in /home3/enartsht/public_html/musomobil/ad/modifier_mutuelle.php on line 140
+[09-Oct-2020 21:26:36 America/Boise] PHP Parse error:  syntax error, unexpected '{' in /home3/enartsht/public_html/musomobil/ad/modifier_mutuelle.php on line 140
+[09-Oct-2020 21:29:03 America/Boise] PHP Parse error:  syntax error, unexpected '{' in /home3/enartsht/public_html/musomobil/ad/modifier_mutuelle.php on line 140
+[09-Oct-2020 21:29:11 America/Boise] PHP Parse error:  syntax error, unexpected '{' in /home3/enartsht/public_html/musomobil/ad/modifier_mutuelle.php on line 140
+[09-Oct-2020 21:38:29 America/Boise] PHP Parse error:  syntax error, unexpected '{' in /home3/enartsht/public_html/musomobil/ad/modifier_mutuelle.php on line 140
+[09-Oct-2020 21:38:55 America/Boise] PHP Parse error:  syntax error, unexpected '{' in /home3/enartsht/public_html/musomobil/ad/modifier_mutuelle.php on line 140
